@@ -4,6 +4,19 @@
 
 ---
 
+## 📸 Screenshots
+
+| Landing Page | Login Page |
+|---|---|
+| ![Landing](docs/screenshots/landing.png) | ![Login](docs/screenshots/login.png) |
+
+| Dashboard | Swagger API Docs |
+|---|---|
+| ![Dashboard](docs/screenshots/dashboard.png) | ![Swagger](docs/screenshots/swagger.png) |
+
+---
+
+
 ## 📌 Table of Contents
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
